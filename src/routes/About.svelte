@@ -19,7 +19,7 @@
             <img src="/assets/svelte.png" alt="User">
         </div>
         <div class="photo">
-            <img src={image} alt="User">
+            <img src='/assets/me.jpg' alt="User">
         </div>
     </div>
     <div class="details">
@@ -55,12 +55,9 @@
                 border: 12px solid $color--black;
                 &:first-child{
                     margin-right: -80px;
-
                 }
                 img{
                     width: 100%;
-
-
                 }
             }
         }

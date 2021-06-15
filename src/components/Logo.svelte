@@ -4,7 +4,7 @@
 
 <a use:link
    href="/">
-   <span>OMDBAPI</span>.COM
+   <span>OMDBAPI</span>.COM MADE BY CHANG HYEON
     </a>
 
 
