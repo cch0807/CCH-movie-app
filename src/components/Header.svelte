@@ -41,7 +41,7 @@
     <div 
     on:click={event => {
         console.log(event)
-        push('/about?name=Netlify&email=hello@netlify.com&image=%2Fassets%2Fnetlify.png')
+        push('/about?name=choi chang hyeon&email=hello@netlify.com&image=%2Fassets%2Fnetlify.png')
     }}
     class="user">
         <img src="/assets/svelte.png" alt="User">
